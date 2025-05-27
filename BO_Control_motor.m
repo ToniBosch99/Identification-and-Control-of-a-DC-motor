@@ -3,6 +3,8 @@ B=[0; 1/L];
 C=[1,0];
 D=0;
 
+%% Prova 1
+
 %%
 pols=[-25 -25];  
 K=acker(A,B,pols); 
